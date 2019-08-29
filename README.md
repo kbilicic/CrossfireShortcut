@@ -7,5 +7,5 @@
 3. This will replace original Crossfire.lua script in CROSSFIRE folder and add new CRSF.lua to your TELEMETRY folder
 4. Go to your model DISPLAY page, select CRSF as a script on one of your pages
 
-![](https://raw.githubusercontent.com/kbilicic/CrossfireShortcut/master/IMAGES/X9D.jpg)
+![](https://raw.githubusercontent.com/kbilicic/CrossfireShortcut/master/IMAGES/X9D.JPG)
 
